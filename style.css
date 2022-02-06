@@ -21,6 +21,8 @@ main {
     display: flex;
     flex-direction: column;
     align-content: center;
+    box-shadow: -4px 4px 5px -1px #BCC8D6, 
+    4px 2px 5px 0px #BCC8D6;
 }
 
 .image-component {
