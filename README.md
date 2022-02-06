@@ -61,7 +61,7 @@ In this lesson, I made use of the descendant selector. It was my first time doin
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Tomi Joshua
 - Frontend Mentor - [@notorioustomijo](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@notorioustomijo](https://www.twitter.com/notorioustomijo)
 
